@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md.Najmus Sakib Rafi.</h1>
 <h3 align="center">A passionate Competitive Programmer from Bangladesh.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibrafi2002" alt="sakibrafi2002" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibrafi2002&label=Profile%20views&color=0e75b6&style=flat" alt="sakibrafi2002" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development(Sigma Web Development Course by CodeWithHarry)**
 
