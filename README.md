@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibrafi2002&label=Profile%20views&color=0e75b6&style=flat" alt="sakibrafi2002" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development(Sigma Web Development Course by CodeWithHarry)**
+- 🌱 I’m currently learning **Full Stack Web Development(Sigma Web Development Course by CodeWithHarry) and Django through a traing program of my University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakibrafi2002?tab=repositories](https://github.com/sakibrafi2002?tab=repositories)
 
